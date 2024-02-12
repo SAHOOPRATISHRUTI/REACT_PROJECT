@@ -1,0 +1,8 @@
+.board-row{
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+}
+.board-container{
+    margin: 20px;
+}
