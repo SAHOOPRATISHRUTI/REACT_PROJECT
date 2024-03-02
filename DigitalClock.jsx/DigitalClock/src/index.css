@@ -1,0 +1,24 @@
+*{
+  background-color: cyan;
+}
+
+.heading{
+  display: flex;
+  justify-content: center;
+}
+
+.content{
+  justify-content: center;
+  
+  border-radius: 20;
+  margin-right: 100;
+  margin-left: 50;
+  margin-top: 20%;
+  display: flex;
+  
+}
+.footer{
+  margin-top: 15%;
+  color: brown;
+  text-align: center;
+}
